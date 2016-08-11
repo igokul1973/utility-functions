@@ -7,3 +7,5 @@ function returnA (a) {
 }
 
 return a;
+
+// some changes introduced
