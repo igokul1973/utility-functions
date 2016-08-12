@@ -14,3 +14,11 @@ getRandomNumber(1, 10);
 
 // => 4
 ```
+
+```
+
+getUrlSlug('My Favorite Songs');
+
+// => 'my-favorite-songs'
+
+_MIT Licence_
