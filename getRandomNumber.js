@@ -1,9 +1,3 @@
-// In the getRandomNumber.js
-
-var a = 2000';
-
-function returnA (a) {
-	return a;
+function getRandomNumber(min, max) {
+	return Math.floor(Math.random() * (max - min + 1)) + min;
 }
-
-return a;
